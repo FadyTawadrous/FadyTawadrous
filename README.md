@@ -36,8 +36,8 @@ I am a .NET Full Stack Developer passionate about building scalable web applicat
 ---
 
 ### ⚡ GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadyTawadrous&show_icons=true&theme=radical)
-![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadyTawadrous&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-flame-eight-95.vercel.app/api?username=FadyTawadrous&show_icons=true&theme=radical)
+![Your Top Langs](https://github-readme-stats-flame-eight-95.vercel.app/api/top-langs/?username=FadyTawadrous&layout=compact&theme=radical)
 
 <!--
 **FadyTawadrous/FadyTawadrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
